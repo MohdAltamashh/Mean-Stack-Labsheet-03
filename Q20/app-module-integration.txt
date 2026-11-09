@@ -1,0 +1,1 @@
+In app.module.ts import ProductsModule and add it to @NgModule imports. Then put <app-product-list></app-product-list> in app.component.html.

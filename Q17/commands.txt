@@ -1,0 +1,7 @@
+ng g c header
+ng g s data
+ng g m shared
+ng g p status
+ng g d highlight
+ng build
+ng test

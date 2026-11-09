@@ -1,0 +1,5 @@
+npm install -g @angular/cli
+ng version
+ng new myapp --routing --style=css
+cd myapp
+ng serve --open

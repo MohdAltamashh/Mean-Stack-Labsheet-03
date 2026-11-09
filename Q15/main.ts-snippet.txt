@@ -1,0 +1,1 @@
+Add `console.log('Angular main.ts bootstrapped');` near the start of src/main.ts.

@@ -1,0 +1,1 @@
+Put sample.jpg in src/assets. Some newer CLI versions use public/ for static assets; then reference it as /sample.jpg. Change the title in app.component.ts and inspect the VS Code folder tree.

@@ -1,0 +1,1 @@
+This task specifically practices NgModule. Create a module-based project or generate the component with --standalone=false. Run `ng g m products`, `ng g c products/product-list --standalone=false`, declare/export it in ProductsModule, then import ProductsModule in AppModule.
